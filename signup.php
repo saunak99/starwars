@@ -15,7 +15,7 @@
   }
   ?>
     <!-- Login Form -->
-	<h1>Sign Up</h1>
+	<h1>Sign Up Page</h1>
     <form action="signupuser.php" method = "post">
       <input type="text" id="" class="fadeIn second" name="fullname" required placeholder="Fullname">
 	  <input type="text" id="login" class="fadeIn second" name="email" required placeholder="Email">
